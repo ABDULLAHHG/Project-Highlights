@@ -9,6 +9,9 @@
 1 - Dart <br>
 2 - FLASK
 
+### Model 
+Seq2Seq Model character level approach 
+
 ### Examples 
 ![Alt text](ArabicNameCorrectorExample.jpg)
 
