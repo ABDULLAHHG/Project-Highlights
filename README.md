@@ -1,4 +1,4 @@
-# Repo for highlights private repo
+# Repo for highlights private repos
 ## ArabicNameCorrector
 
 
