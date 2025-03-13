@@ -16,10 +16,6 @@
 
 3. The third model `High-End` is slower but achieves very high accuracy; it combines three seq2seq models, each focusing on a specific part of the data while leveraging knowledge of the entire dataset.
 
-first 2 inputs use the Low-End model
-third input using the Medium model 
-and the last using the high-end model 
-
 ### Examples 
 ![Alt text](ArabicNameCorrectorExample.jpg)
 
