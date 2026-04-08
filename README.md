@@ -6,7 +6,7 @@
 1 - flutter
 
 ### Back-end
-1 - FLASK
+1 - Flask
 
 ### Models
 1. The first model `Low-End` is fast but has lower accuracy compared to the others.
