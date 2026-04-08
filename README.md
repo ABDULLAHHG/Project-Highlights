@@ -3,7 +3,7 @@
 
 
 ### Front-end
-1 - flutter
+1 - Flutter
 
 ### Back-end
 1 - Flask
